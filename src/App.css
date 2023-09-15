@@ -1,0 +1,15 @@
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 70vh;
+  background-color: #B9B4C7;
+  border-radius: 20px;
+  box-shadow: -5px -5px 9px #cdc9d7, 5px 5px 9px #8a849b;
+}
+h1{
+  margin: 4vh 0 0 0;
+  font-weight:bold;
+  color: #352F44;
+}
